@@ -13,7 +13,6 @@ metallic_specular = 0.1
 roughness = 0.6
 normal_enabled = true
 normal_texture = ExtResource("3")
-clearcoat_enabled = true
 anisotropy = -0.66
 refraction_scale = 0.25
 uv1_triplanar = true
